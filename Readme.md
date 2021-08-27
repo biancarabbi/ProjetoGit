@@ -1,1 +1,2 @@
-Olá, esse projeto ensina você a usar o Git.
+Aprendendo a mexer no Git e Github
+Isso é uma alteração.
